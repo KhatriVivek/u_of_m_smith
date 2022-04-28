@@ -6,7 +6,7 @@
 ##
 # Read the data. 
 #
-Beer.Preferences <- read.csv("C:/Users/rahilpereira/OneDrive - Rivian Automotive, LLC/Documents/BUDT758T/Week3/beer/Beer Preferences.csv")
+Beer.Preferences <- read.csv("Beer Preferences.csv")
 #
 # In this case dollar amounts will be read as character strings. 
 # You can change that in Excel - or in R as follows
